@@ -26,6 +26,5 @@ Things to turn in:
 
 NOT TO BE HOSTED ON VERCEL
 
-## Reviewed by:Chris Wells-Hott
-Comments: Everything Works As It Should.Great work Trey!
->
+## Reviewed by: Chris Wells-Hott
+> Comments: Everything Works As It Should, Great work Trey!
